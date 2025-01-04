@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#logo{
+    font-weight: 800;
+}
+.header{
+    background-color: rgb(12, 238, 238);
+}
+.firstSection{
+    display: inline;
+}
+.nav-item{
+    margin: 3px;
+    border-radius: 4px;
+}
+.nav-item:hover{
+    background-color: cadetblue;
+}
